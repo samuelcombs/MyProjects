@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="comp_went">Computer went first.</string>
+    <string name="you_go">You go first.</string>
+    <string name="comp_wins">Computer Wins. Try again.</string>
+    <string name="you_win">You Win Congrats.</string>
+    <string name="draw">It\'s a Draw. Try again.</string>
+    <string name="click_new">Click New Game</string>
+    <string name="new_game">New Game</string>
+</resources>
