@@ -1,0 +1,148 @@
+/**{
+    font-family: "Helvetica";
+    color: grey;
+}*/
+.main {
+    font-family: Calibri;
+    font-size: large;
+    background-color: lightgrey;
+}
+body {
+    background-color: lightgrey;
+}
+hr {
+    padding: 0;
+    margin: 0;
+    border-color: darkgray;
+}
+.admin {
+    margin: 0 auto;
+    margin-top: 30px;
+    text-align: center;
+    min-width: 60%;
+    max-width: 90%;
+    display: table;
+    width: -moz-fit-content;
+    width: -webkit-fit-content;
+    width: -ms-fit-content;
+    width: -o-fit-content;
+    width: fit-content;
+    border: 1px solid black;
+    border-radius: 10px;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000;
+    box-shadow: 5px 5px 15px 5px #000000;
+    padding: 10px;
+    font-size: large;
+    background-color: white;
+}
+.swoosh {
+    position:relative;
+    top: 5px;
+}
+.active {
+    border-radius: 10px;
+}
+html {
+    background-color: white;
+}
+
+footer {
+    background-color: white;    
+}
+.login {
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+    width: 70%;
+    border: 1px solid black;
+    border-radius: 10px;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000;
+    box-shadow: 5px 5px 15px 5px #000000;
+    padding: 10px;
+    font-size: 20px;
+    background-color: white;
+}
+hr {
+    padding: 0;
+    margin: 0;
+    border-color: darkgray;
+}
+.image{
+    padding-top: 5px;
+    background-color: white;
+}
+.navbar{
+    background-color: #002b49;
+    width: auto;
+}
+
+.navbar-brand {
+    color: white;
+}
+.navbar-brand:hover {
+    color: white;
+}
+.body-container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-flow: row wrap;
+}
+
+.info-card{
+    height: auto;
+    width: 400px;
+    border: 2px solid gray;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.chart-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: auto;
+    width: 100%;
+}
+
+.chart-wrapper{
+    height: auto;
+    width:600px;
+    border: 2px solid gray;
+}
+@media only screen and (max-width: 1240px) {
+    .chart-wrapper{
+        height: auto;
+        width:480px;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .chart-container{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .chart-wrapper{
+        height: auto;
+        width:700px;
+        margin-bottom: 10px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .chart-container{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .chart-wrapper{
+        height: auto;
+        width: 500px;
+        margin-bottom: 10px;
+    }
+}
+
+
+
+
+

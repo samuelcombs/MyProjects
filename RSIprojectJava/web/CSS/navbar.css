@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+}    
+.icon-bar {
+    width: auto;
+}    
+.icon-bar a {
+    display: block;
+    text-align: center;
+    padding: 4px;
+    transition: all 0.3s ease;
+    color: rgb(255, 0, 0);
+    font-size: 32px;
+}    
+.icon-bar a:hover {
+    background-color: #002b49;
+}    
+.top {
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 92px;
+}    
+.left {
+    position: absolute;
+    left: 0;
+    top: 180px;
+    bottom: 0;
+    width: auto;
+}
+

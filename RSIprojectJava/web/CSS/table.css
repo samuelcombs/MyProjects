@@ -1,0 +1,128 @@
+.main {
+    font-family: Calibri;
+    font-size: large;
+    background-color: lightgrey;
+}
+body {
+    background-color: lightgrey;
+}
+hr {
+    padding: 0;
+    margin: 0;
+    border-color: darkgray;
+}
+.swoosh {
+    position:relative;
+    top: 5px;
+}
+.active {
+    border-radius: 10px;
+}
+html {
+    background-color: white;
+}
+
+footer {
+    background-color: white;
+}
+
+.image {
+    padding-top: 5px;
+    background-color: white;
+}
+
+th:hover{
+    color: darkred;
+    cursor: pointer;
+}
+th{
+    text-align: center;
+}
+
+.navbar {
+    background-color: #002b49;
+    width: auto;
+}
+
+.nav {
+    font-size: large;
+}
+
+.navbar-brand {
+    color: white;
+    font-size: large;
+}
+
+.navbar-brand:hover {
+   color: white;
+}
+
+.button {
+    background-color: white;
+    border: 2px solid red;
+    color: #002b49;
+    border-radius: 30px;
+    padding: 4px;
+    font-size: large;
+    font-weight: bold;   
+}
+
+.button:hover {
+    background-color: red;
+    color: white;
+    text-decoration: none;
+}
+
+.submit {
+    background-color: white;
+    border: 2px solid red;
+    color: #002b49;
+    border-radius: 30px;
+    padding: 4px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.submit:hover {
+    background-color: red;
+    color: white;
+}
+
+::-webkit-input-placeholder { /* Edge */
+    color: red;
+    padding: 4px;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: red;
+    padding: 4px;
+}
+
+::placeholder {
+    color: red;
+    padding: 4px;
+}
+.ddl {
+    color: red;
+    padding: 3px;
+}
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.table {
+    -webkit-box-shadow: 2px 2px 4px 2px #000000;
+    box-shadow: 2px 2px 4px 2px #000000;
+    font-size: large;
+    border: 1px solid darkgrey; 
+    text-align: center;
+    background-color: white;
+}
+
+.tablehead {
+    padding: 4px;
+    text-align: center;
+}
+
+h3 {
+    padding: 0px;
+    margin: 0px;
+}

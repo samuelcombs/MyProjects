@@ -1,0 +1,228 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+.main {
+    font-family: Calibri;
+    font-size: large;
+    background-color: lightgrey;
+}
+body {
+    background-color: lightgrey;
+}
+hr {
+    padding: 0;
+    margin: 0;
+    border-color: darkgray;
+}
+.swoosh {
+    position:relative;
+    top: 5px;
+}
+
+html {
+    background-color: white;
+}
+
+footer {
+    background-color: white;    
+}
+
+.image{
+    padding-top: 5px;
+    background-color: white;
+}
+
+.navbar{
+    background-color: #002b49;
+    width: auto;
+}
+
+.navbar-brand {
+    color: white;
+}
+.navbar-brand:hover {
+    color: white;
+}
+
+th:hover{
+    color: darkred;
+    cursor: pointer;
+}
+th{
+    color: red;
+    text-align: center;
+}
+.table {
+    -webkit-box-shadow: 2px 2px 4px 2px #000000;
+    box-shadow: 2px 2px 4px 2px #000000;
+    font-size: large;
+    border: 1px solid darkgrey;
+    text-align: center;
+    background-color: white;
+}
+.form-group {
+    margin-top: 0px;
+}
+
+.form-inline { 
+    flex-flow: row wrap;
+    align-items: center;
+}
+
+.button {
+    background-color: white;
+    border: 2px solid red;
+    color: #002b49;
+    border-radius: 30px;
+    padding: 10px;
+    font-size: large;
+    font-weight: bold;
+}
+.button:hover {
+    background-color: red;
+    color: white;
+}
+
+submit {
+    background-color: white;
+    border: 2px solid red;
+    color: #002b49;
+    border-radius: 30px;
+    padding: 10px;
+    font-size: large;
+    font-weight: bold;
+}
+submit:hover {
+    background-color: red;
+    color: white;
+}
+
+.addSkill {
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+    width: 36px;
+    height: 36px;
+    font-weight: bold;
+    font-size: large;
+}
+
+.addSkill:hover{
+    background-color: darkred;
+    color: white;
+}
+
+.deleteSkill{
+    background-color: white;
+    border: 2px solid red;
+    color: #002b49;
+    border-radius: 30px;
+    font-size: 14px;    
+    padding: 0px;
+}
+.deleteSkill:hover{
+    background-color: darkred;
+    text-decoration: none;    
+}
+
+.apForm {
+    margin: auto;
+    text-align: center;
+    width: 60%;
+    border: 1px solid black;
+    border-radius: 10px;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000;
+    box-shadow: 5px 5px 15px 5px #000000;
+    font-size: large;
+}
+
+.login {
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+    width: 60%;
+    border: 1px solid black;
+    border-radius: 10px;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000;
+    box-shadow: 5px 5px 15px 5px #000000;
+    padding: 10px;
+    font-size: 20px;
+    background-color: white;
+}
+.active {
+    border-radius: 10px;
+}
+.admin {
+    margin: 0 auto;
+    margin-top: 30px;
+    text-align: center;
+    min-width: 60%;
+    display: table;
+    width: -moz-fit-content;
+    width: -webkit-fit-content;
+    width: -ms-fit-content;
+    width: -o-fit-content;
+    width: fit-content;
+    border: 1px solid black;
+    border-radius: 10px;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000;
+    box-shadow: 5px 5px 15px 5px #000000;
+    padding: 10px;
+    font-size: large;
+    background-color: white;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+
+.header {
+    padding-top: 1px;
+    padding-bottom: 2px;
+    margin: 0px;
+}
+
+h3 {
+    padding: 0px;
+    margin: 0px;
+}
+h2 {
+    padding: 0px;
+    margin: 0px;
+}
+
+::-webkit-input-placeholder { /* Edge */
+    color: red;
+    padding: 4px;    
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: red;
+    padding: 4px;
+}
+
+::placeholder {
+    color: red;
+    padding: 4px;
+}
+
+input:not([type]), input[type="text"], input[type="password"], input[type="date"], input[type="number"] {
+    color: Red;
+    font-weight: bold;
+    padding: 4px;
+}
+
+.ddl {
+    font-weight: bold;
+    padding: 4px;
+}
+
+.section {
+    font-size: 20px;
+    padding: 20px;
+    margin: 0px;   
+}
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+input,
+select,
+textarea {
+    max-width: 420px;
+}
