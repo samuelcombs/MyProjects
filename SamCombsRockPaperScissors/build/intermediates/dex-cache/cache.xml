@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\murach\AndroidScott\RockPaperScissors\JoshuaRockPaperScissors\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\murach\AndroidScott\RockPaperScissors\JoshuaRockPaperScissors\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_04d90f90d68908053ff4ad1fa5e435ae20d95e27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\murach\AndroidScott\RockPaperScissors\JoshuaRockPaperScissors\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="99414c2cd1ca55a9ea86092721140e8ccc38310c">
+        <dex dex="C:\murach\AndroidScott\RockPaperScissors\JoshuaRockPaperScissors\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e7d665d868a75b76ef7e6a1a266d355a1081b86c\classes.dex" />
+    </item>
+
+</items>

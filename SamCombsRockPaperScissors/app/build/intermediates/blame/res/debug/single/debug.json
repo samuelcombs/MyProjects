@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rock.jpg.flat",
+        "source": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\src\\main\\res\\drawable-hdpi\\rock.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_wallpaper.jpg.flat",
+        "source": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\src\\main\\res\\drawable-hdpi\\wallpaper.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_galaxy.jpg.flat",
+        "source": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\src\\main\\res\\drawable-hdpi\\galaxy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_big.png.flat",
+        "source": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\src\\main\\res\\drawable-hdpi\\big.png"
+    },
+    {
+        "merged": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_smaller.png.flat",
+        "source": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\src\\main\\res\\drawable-hdpi\\smaller.png"
+    },
+    {
+        "merged": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cutter_orig.png.flat",
+        "source": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\src\\main\\res\\drawable-hdpi\\cutter_orig.png"
+    },
+    {
+        "merged": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_abstrakt2.jpg.flat",
+        "source": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\src\\main\\res\\drawable-hdpi\\abstrakt2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\raw_laser.mp3.flat",
+        "source": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\src\\main\\res\\raw\\laser.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_small.png.flat",
+        "source": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\src\\main\\res\\drawable-hdpi\\small.png"
+    },
+    {
+        "merged": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_paper.jpg.flat",
+        "source": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\src\\main\\res\\drawable-hdpi\\paper.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scissors.jpg.flat",
+        "source": "C:\\Users\\Samuel\\Desktop\\Classes\\SamCombsRockPaperScissors\\app\\src\\main\\res\\drawable-hdpi\\scissors.jpg"
+    }
+]
