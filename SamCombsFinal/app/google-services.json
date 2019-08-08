@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "344139794637",
+    "firebase_url": "https://samcombsfinal.firebaseio.com",
+    "project_id": "samcombsfinal",
+    "storage_bucket": "samcombsfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344139794637:android:0900b6cd93eb31c9",
+        "android_client_info": {
+          "package_name": "com.sam.samcombsfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344139794637-a9jph3d29ecqashfl57olsvl4bnr0kbo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sam.samcombsfinal",
+            "certificate_hash": "090f46b41d09bddc4161e42aefad32df424f6500"
+          }
+        },
+        {
+          "client_id": "344139794637-8rfdnf9lnf6neplcssl7ucqccvt7kb7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAda5PoA0tIClE5VexypJiD-_2NAgkHhXA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344139794637-8rfdnf9lnf6neplcssl7ucqccvt7kb7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

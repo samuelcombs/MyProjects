@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SamCombsFinal</string>
+    <string name="btn_Get">Get</string>
+    <string name="logout_menu_text">Logout</string>
+    <string name="back_menu_text">Back</string>
+    <string name="home_menu_button_text">Home</string>
+</resources>
